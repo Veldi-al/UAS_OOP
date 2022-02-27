@@ -1,0 +1,16 @@
+c:\users\acer\documents\visual studio 2015\Projects\UAS_OOP_1184055\UAS_OOP_1184055\bin\Debug\UAS_OOP_1184055.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\UAS_OOP_1184055\UAS_OOP_1184055\obj\Debug\UAS_OOP_1184055.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\UAS_OOP_1184055\UAS_OOP_1184055\obj\Debug\UAS_OOP_1184055.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\UAS_OOP_1184055\UAS_OOP_1184055\obj\Debug\UAS_OOP_1184055.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\UAS_OOP_1184055\UAS_OOP_1184055\bin\Debug\UAS_OOP_1184055.exe
+c:\users\acer\documents\visual studio 2015\Projects\UAS_OOP_1184055\UAS_OOP_1184055\bin\Debug\UAS_OOP_1184055.pdb
+c:\users\acer\documents\visual studio 2015\Projects\UAS_OOP_1184055\UAS_OOP_1184055\obj\Debug\UAS_OOP_1184055.exe
+c:\users\acer\documents\visual studio 2015\Projects\UAS_OOP_1184055\UAS_OOP_1184055\obj\Debug\UAS_OOP_1184055.pdb
+c:\users\acer\documents\visual studio 2015\Projects\UAS_OOP_1184055\UAS_OOP_1184055\obj\Debug\UAS_OOP_1184055.Mahasiswa.resources
+c:\users\acer\documents\visual studio 2015\Projects\UAS_OOP_1184055\UAS_OOP_1184055\obj\Debug\UAS_OOP_1184055.InputProgramStudi.resources
+c:\users\acer\documents\visual studio 2015\Projects\UAS_OOP_1184055\UAS_OOP_1184055\obj\Debug\UAS_OOP_1184055.Daftar_Ulang_Mahasiswa.resources
+c:\users\acer\documents\visual studio 2015\Projects\UAS_OOP_1184055\UAS_OOP_1184055\obj\Debug\UAS_OOP_1184055.Home.resources
+c:\users\acer\documents\visual studio 2015\Projects\UAS_OOP_1184055\UAS_OOP_1184055\obj\Debug\UAS_OOP_1184055.ViewMahasiswa.resources
+D:\UAS PEMROG\UAS_OOP_1184055\UAS_OOP_1184055\bin\Debug\UAS_OOP_1184055.exe.config
+D:\UAS PEMROG\UAS_OOP_1184055\UAS_OOP_1184055\obj\Debug\UAS_OOP_1184055.exe
+D:\UAS PEMROG\UAS_OOP_1184055\UAS_OOP_1184055\obj\Debug\UAS_OOP_1184055.pdb
